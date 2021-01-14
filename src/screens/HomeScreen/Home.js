@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { View, Text,SafeAreaView } from 'react-native';
 import { Button } from 'react-native-paper';
-import ArcgisNghia ,{RNMapViewNative} from 'react-native-arcgis-nghia';
 var LAYERS = [
   {
     type: 'ArcGISTiledMapServiceLayer',

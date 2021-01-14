@@ -12,7 +12,6 @@
   "dependencies": {
     "react": "16.13.1",
     "react-native": "0.63.4",
-    "react-native-arcgis-nghia": "git+https://github.com/15110088/react-native-arcgis-nghia.git",
     "react-native-paper": "^4.5.0",
     "redux-form": "^8.3.7",
     "redux-thunk": "^2.3.0"
