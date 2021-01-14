@@ -10,6 +10,10 @@ target 'TeaJackFriut' do
 
   pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
 
+  pod 'react-native-my-library', :path => '../node_modules/react-native-my-library'
+
+  pod 'react-native-arcgis-nghia', :path => '../node_modules/react-native-arcgis-nghia'
+
   target 'TeaJackFriutTests' do
     inherit! :complete
     # Pods for testing
